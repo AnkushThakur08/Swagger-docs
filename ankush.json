@@ -1,0 +1,22 @@
+{
+  "id": 10,
+
+  "project": ["inhouseProject", "ClientProject"],
+
+  "report": [
+    {
+      "grading": "A+",
+
+      "frontEnd": 90,
+
+      "backend": [
+        {
+          "express": "A+",
+
+          "node": "A"
+        }
+      ],
+      "hobbies": ["criket", "watching TV"]
+    }
+  ]
+}
